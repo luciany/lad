@@ -80,7 +80,7 @@
     "lodash": "^4.17.4",
     "memwatch-next": "^0.3.0",
     "moment": "^2.18.1",
-    "mongoose": "^4.11.10",
+    "mongoose": "^4.13.17",
     "mongoose-common-plugin": "^0.0.2",
     "nodemailer": "^4.1.0",
     "nodemailer-base64-to-s3": "0.0.2",
