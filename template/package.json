@@ -104,7 +104,7 @@
     "uuid": "^3.1.0",
     "validator": "^8.1.0",
     "waypoints": "^4.0.1",
-    "web-resource-inliner": "niftylettuce/web-resource-inliner",
+    "web-resource-inliner": "4.1.0",
     "webfontloader": "^1.6.28"
   },
   "devDependencies": {
