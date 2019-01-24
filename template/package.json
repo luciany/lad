@@ -22,7 +22,7 @@
     "babel-polyfill": "^6.26.0",
     "basic-auth": "^1.1.0",
     "boom": "^5.2.0",
-    "bootstrap": "^4.0.0-beta",
+    "bootstrap": "^4.0.0",
     "bootstrap-social": "niftylettuce/bootstrap-social#gh-pages",
     "cache-pug-templates": "^0.0.5",
     "chalk": "^2.1.0",
